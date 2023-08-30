@@ -32,16 +32,18 @@ def csv_to_json(csv_file_path, json_file_path):
 @benchmark_with(filemanager_logger)
 @logging_with(filemanager_logger)
 def get_file_list_from(folder_path):
-    try:        
+    try:
         file_list = [
             folder_path + '/' + f
             for f in listdir(folder_path)
             if isfile(join(folder_path, f))
         ]
-        filemanager_logger.info(f'Folder: {folder_path} \t Files List:{file_list}')
+        filemanager_logger.info(
+            f'Folder: {folder_path} \t Files List:{file_list}'
+        )
         return file_list
     except Exception as e:
-        filemanager_logger.exception("An unknow error occurred:", e)    
+        filemanager_logger.exception('An unknow error occurred:', e)
 
 
 @benchmark_with(filemanager_logger)

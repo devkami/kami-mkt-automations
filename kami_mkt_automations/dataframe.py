@@ -21,8 +21,8 @@ from constant import (
 from database import (
     get_vw_customer_details,
     get_vw_daily_billings,
-    get_vw_monthly_billings,
     get_vw_future_bills,
+    get_vw_monthly_billings,
 )
 from kami_logging import benchmark_with, logging_with
 from numpy import dtype
@@ -50,11 +50,13 @@ def get_monthly_billings_df():
     monthly_billings = get_vw_monthly_billings()
     return monthly_billings
 
+
 @benchmark_with(dataframe)
 @logging_with(dataframe)
 def get_future_bills_df():
     future_bills = get_vw_future_bills()
     return future_bills
+
 
 def group_by_cols(df, group_cols) -> pd.DataFrame:
     df = df.sort_values(['ano', 'mes'], ascending=False)
@@ -195,10 +197,10 @@ def build_master_df(sales_bi_df) -> pd.DataFrame:
     master_df = pd.DataFrame()
     orders_df = build_orders_df(sales_bi_df)
     index_cols = ['cod_cliente', 'cod_marca']
-    head_df = group_by_cols(
-        sales_bi_df, group_cols=index_cols
-    )[COLUMNS_NAMES_HEAD]
-    
+    head_df = group_by_cols(sales_bi_df, group_cols=index_cols)[
+        COLUMNS_NAMES_HEAD
+    ]
+
     trousseau_df = sum_trousseau_by_costumer(orders_df)
     subsidized_df = sum_subsidized_by_costumer(orders_df)
     discount_df = sum_discount_by_costumer(orders_df)

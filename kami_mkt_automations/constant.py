@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime, timedelta
+
 import numpy as np
 
-APP_VERSION = "0.3.3"
+APP_VERSION = '0.3.3'
 TIMEOUT = 3600
 PAGE_SIZE = 100
 OPERATORS = [
@@ -213,7 +214,10 @@ BILLINGS_DATETIME_COLS = [
 ]
 FUTURE_BILLS_SCRIPT = 'SELECT * FROM vw_future_bills'
 FUTURE_BILLS_DATETIME_COLS = ['dt_vencimento']
-FUTURE_BILLS_NUM_COLS = {'cod_empresa': np.int64, 'total_a_receber': np.float64}
+FUTURE_BILLS_NUM_COLS = {
+    'cod_empresa': np.int64,
+    'total_a_receber': np.float64,
+}
 ODERS_COLS_HEAD = [
     'ano',
     'mes',
@@ -249,7 +253,7 @@ ORDER_ITEM_DATE_COLS = [
     'dt_prev_treinamento',
     'dt_prevista',
     'dt_reserva_estoque',
-    'dt_retorno'
+    'dt_retorno',
 ]
 BEEXP_PRODUCTS = (
     '13711-13',
