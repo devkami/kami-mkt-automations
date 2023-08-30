@@ -3,9 +3,6 @@ from datetime import datetime, timedelta
 
 import numpy as np
 
-APP_VERSION = '0.3.3'
-TIMEOUT = 3600
-PAGE_SIZE = 100
 OPERATORS = [
     ['ge ', '>='],
     ['le ', '<='],
