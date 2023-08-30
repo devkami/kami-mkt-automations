@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Geovani Benites",
+        "phone": "+5511950373177",
+        "email": "geovani@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Renato",
+        "phone": "+5511995488971",
+        "email": "rmimoto@kamico.com.br",
+        "groups": ["board", "geral"]
+    },
+    {
+        "name": "Gabi",
+        "phone": "+5511991380230",
+        "email": "gabi@kamico.com.br",
+        "groups": ["comercial", "geral", "beexp_manager"]
+    },
+    {
+        "name": "Rogerio Casado",
+        "phone": "+5511991674725",
+        "email": "rogerio.casado@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Romulo Amaro",
+        "phone": "+5521994954905",
+        "email": "romulo.amaro@kamico.com.br",
+        "groups": ["comercial", "geral", "board"]
+    },
+    {
+        "name": "Adriana David",
+        "phone": "+5511986313976",
+        "email": "adriana@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Tiago Maruyama",
+        "phone": "+5511999651144",
+        "email": "tmaruyama@kamico.com.br",
+        "groups": ["geral", "board", "comercial"]
+    },
+    {
+        "name": "Bruno Pereira",
+        "phone": "+5511962438739",
+        "email": "bruno.pereira@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Andre Maruyama",
+        "phone": "+5511997671245",
+        "email": "controladoria@kamico.com.br",
+        "groups": ["board", "account"]
+    },
+    {
+        "name": "Renan Mimoto",
+        "phone": "+5511999009347",
+        "email": "renanmimoto@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Renan Gonçalves",
+        "phone": "+5511976870958",
+        "email": "comercial01@kamico.com.br",
+        "groups": ["comercial", "geral", "board"]
+    },
+    {
+        "name": "Rogerio Silveira",
+        "phone": "+5511992686601",
+        "email": "rogerio.silveira@kamico.com.br",
+        "groups": ["account"]
+    },
+    {
+        "name": "Carlos Gouveia",
+        "phone": "+5513996478520",
+        "email": "carlos.gouveia@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Lauegis Moraes",
+        "phone": "+5511945456531",
+        "email": "lauegis.moraes@kamico.com.br",
+        "groups": ["comercial", "geral"]
+    },
+    {
+        "name": "Helder Faria",
+        "phone": "+351939211798",
+        "email": "helder.faria@kamico.pt",
+        "groups": []
+    },
+    {
+        "name": "Leonardo Ferrada",
+        "phone": "+5511951569216",
+        "email": "leonardoferrada@hotmail.com",
+        "groups": []
+    },
+    {
+        "name": "Maurício Fujita",
+        "phone": "+5511982218063",
+        "email": "mfujita@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Nilda Faria",
+        "phone": "+351935221343",
+        "email": "nilda.faria@kamico.pt",
+        "groups": []
+    },
+    {
+        "name": "Anyele Macena",
+        "phone": "+5511945144740",
+        "email": "rh@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Erica Yukiko Gouveia Takami",
+        "phone": "+5511999002441",
+        "email": "takamierica@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Isabelle Felipe Valim",
+        "phone": "+5511940170248",
+        "email": "isabelle@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Guilherme Borges da Silva",
+        "phone": "+5511989229992",
+        "email": "guiborges080@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Juliana Gonçalves Izidoro Dantas",
+        "phone": "+5511985441404",
+        "email": "juliana@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Luana da Silva Costa",
+        "phone": "+5511987990861",
+        "email": "luana.costa@kamico.com.br",
+        "groups": []
+    },
+    {
+        "name": "Valeria Bezerra Melo",
+        "phone": "+5511914867072",
+        "email": "valeria.melo721@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Angela Branco Lopes",
+        "phone": "+5511983564078",
+        "email": "angelalopesbranco@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Maicon de Menezes Oliveira",
+        "phone": "+5521983144824",
+        "email": "maicon@kamico.com.br",
+        "groups": ["board", "account", "comercial", "geral", "test", "beexp_manager"]
+    },
+    {
+        "name": "Alexandre Andrade Nascimento",
+        "phone": "+5514988052125",
+        "email": "alex@gruposuprir.com",
+        "groups": ["comercial", "geral"]
+    },
+    {
+        "name": "Maisa Ekermann",
+        "phone": "+5521999391828",
+        "email": "maisa@gruposuprir.com",
+        "groups": ["comercial", "geral"]
+    },
+    {
+        "name": "Aline Aparecida Belletti",
+        "phone": "+5519991655148",
+        "email": "bellettii.aline@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Michele Nunes Martins da Silva",
+        "phone": "+5511985750833",
+        "email": "michele.nunesmel@hotmail.com",
+        "groups": []
+    },
+    {
+        "name": "Jhonatan de Camargo Alves Lima",
+        "phone": "+5511986167661",
+        "email": "jhonatancamargo36@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Mônica Maria Binkosk",
+        "phone": "+5517996080638",
+        "email": "binkosk2015@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Raonny Santos",
+        "phone": "+5511949134526",
+        "email": "raonnyeudes@gmail.com",
+        "groups": []
+    },
+    {
+        "name": "Gustavo Lima",
+        "phone": "+5511949350118",
+        "email": "gustavo@kamico.com.br",
+        "groups": ["board", "account", "comercial", "geral"]
+    },
+    {
+        "name": "Sávio Almeida",
+        "phone": "+5512996054540",
+        "email": "savio@kamico.com.br",
+        "groups": ["comercial", "geral"]
+    },
+    {
+        "name": "Carlos Benia",
+        "phone": "+555492063095",
+        "email": "carlos@kamico.com.br",
+        "groups": ["comercial", "geral"]
+    },
+    {
+        "name": "Rodigo Agnelli",
+        "phone": "+5511981051175",
+        "email": "rodrigo.agnelli@kamico.com.br",
+        "groups": ["comercial", "geral"]
+    },
+    {
+        "name": "Maurício Rodrigues",
+        "phone": "+5521993308393",
+        "email": "mauricio@gruposuprir.com",
+        "groups": ["comercial", "geral", "board"]
+    }
+]
